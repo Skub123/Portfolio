@@ -4,7 +4,7 @@
 
 #### Software Engineer skilled in implementing JUnit tests, Swagger API documentation, and HTTP services with a commitment to maintaining high code standards throughout the product development lifecycle. Possesses extensive technical expertise in Data Science using Python, as well as proficiency in Machine Learning and Java. Known for strong technical communication abilities and exceptional analytical and debugging skills, dedicated to driving innovation and excellence in software development projects.
 
-<img align="left" src="https://raw.githubusercontent.com/Skub123/Portfolio/main/Images/IMG_0110.jpg" width="180">
+
 
 - 💻 I’m currently Semester Exchange Student @ **National Taipei University, Taiwan**
 - 📖 I’m a **Software and Machine Learning Engineer**
