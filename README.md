@@ -66,7 +66,7 @@
 - Tools: VS Code, Colab, Pygame, dlib, PyOpenGL, OpenCV.
 
 ## Achievements
-<img align='right' src="https://github.com/Skub123/Portfolio/blob/main/Images/1716550731209.jpg" width="240" height="240">
+
 - Secured **2nd position** in the **Innovation and Entrepreneurship Proposal Competition** organized by the **Center for Innovation, Entrepreneurship, and Industry Collaboration Development** at **National Taipei University**.
  
 - **Winner of World IOT Hackathon**: - **1st Position**, 1/100 teams in World IoT Hackathon. A 48-hour long challenge.
