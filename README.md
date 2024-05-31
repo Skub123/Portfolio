@@ -8,7 +8,11 @@
 
 - 💻 I’m currently Semester Exchange Student @ **National Taipei University, Taiwan**
 - 📖 I’m a **Software and Machine Learning Engineer**
-- 👯 I’m looking to collaborate on **OpenSource** projects on **Machine Learning, App development & Cloud Computing**
+- 👯 I’m looking to collaborate on **OpenSource** projects on **Machine Learning, Real Time Prediction  & Cloud Computing**
+
+
+
+
 
 - 📫 You can find me at: [LinkedIn](https://www.linkedin.com/in/shubhamkarnwalprofile/) or [GitHub](https://github.com/Skub123) or [Email: shubhamkarnwal2510@gmail.com](mailto:Shubhamkarnwal2510@gmail.com)
 
