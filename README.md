@@ -1,10 +1,10 @@
-## <code><img height="200" align="right" src="https://raw.githubusercontent.com/Skub123/Portfolio/main/Images/IMG_0110.jpg"></code>
+
 
 ## Hi There 👋, I'm **Shubham Karnwal**. 
 
 #### Software Engineer skilled in implementing JUnit tests, Swagger API documentation, and HTTP services with a commitment to maintaining high code standards throughout the product development lifecycle. Possesses extensive technical expertise in Data Science using Python, as well as proficiency in Machine Learning and Java. Known for strong technical communication abilities and exceptional analytical and debugging skills, dedicated to driving innovation and excellence in software development projects.
 
-<img align="left" src="https://media.giphy.com/media/yU0vrGBTI6TKg/giphy.gif" width="180">
+<img align="left" src="https://raw.githubusercontent.com/Skub123/Portfolio/main/Images/IMG_0110.jpg" width="180">
 
 - 💻 I’m currently Semester Exchange Student @ **National Taipei University, Taiwan**
 - 📖 I’m a **Software and Machine Learning Engineer**
@@ -68,7 +68,7 @@
 ## Achievements
 
 - Secured **2nd position** in the **Innovation and Entrepreneurship Proposal Competition** organized by the **Center for Innovation, Entrepreneurship, and Industry Collaboration Development** at **National Taipei University**.
-   <img align="right" src="https://raw.githubusercontent.com/Skub123/Portfolio/main/Images/1716550731209.jpg" width="240">
+ 
 - **Winner of World IOT Hackathon**: - **1st Position**, 1/100 teams in World IoT Hackathon. A 48-hour long challenge.
 - Chosen among **5000** others for **Career Readiness Program by Google Cloud** [Link](https://www.cloudskillsboost.google/public_profiles/0cc9fe04-15d9-4205-953d-f4ceaba0fb64)
 - Attained **5\*** in Problem Solving, **3\*** in Java and **5\*** in SQL in HackerRank [Link](https://www.hackerrank.com/profile/skarn2510).
