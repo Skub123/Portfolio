@@ -1,4 +1,4 @@
-![Shubham](/Images/IMG_0110.jpg)
+<img src="/Images/IMG_0110.jpg" alt="Shubham" style="width:200px;height:auto; align➡️">
 
 ## Hi There 👋, I'm **Shubham Karnwal**. 
 
