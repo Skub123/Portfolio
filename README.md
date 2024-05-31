@@ -72,7 +72,7 @@
 ## Achievements
 
 - Secured **2nd position** in the **Innovation and Entrepreneurship Proposal Competition** organized by the **Center for Innovation, Entrepreneurship, and Industry Collaboration Development** at **National Taipei University, Taiwan**.
- 
+ ![Innovation Competition](/Images/1716550731209.jpg)
 - **Winner of World IOT Hackathon**: - **1st Position**, 1/100 teams in World IoT Hackathon. A 48-hour long challenge.
 - Chosen among **5000** others for **Career Readiness Program by Google Cloud** [Link](https://www.cloudskillsboost.google/public_profiles/0cc9fe04-15d9-4205-953d-f4ceaba0fb64)
 - Attained **5\*** in Problem Solving, **3\*** in Java and **5\*** in SQL in HackerRank [Link](https://www.hackerrank.com/profile/skarn2510).
