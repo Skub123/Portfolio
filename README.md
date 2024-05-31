@@ -1,4 +1,4 @@
-<img src="/Images/IMG_0110.jpg" alt="Shubham" style="width:200px;height:auto;">
+
 
 ## Hi There 👋, I'm **Shubham Karnwal**. 
 
