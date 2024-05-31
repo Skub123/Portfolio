@@ -62,9 +62,9 @@
 - Designed model, 68 landmarks are plotted to detect every part of the face, 3D mapping is blended with skin tone to downright this and the process takes only a millisecond 
 - Tools: VS Code, Collab, Pygame, dlib, PyOpenGL, OpenCV
 
-##ACHIEVEMENTS
-- Secured 2nd position in the Innovation and Entrepreneurship Proposal Competition organized by the Center for Innovation, Entrepreneurship, and Industry Collabration Development at National Taipei University.
-- Winner of World IOT Hackathon: - 1st Position, 1/100 teams in World IoT Hackathon. A 48 hour’s long challenge
-- Chosen among 5000 others for Career Readiness Program by Google Cloud [Link](https://www.cloudskillsboost.google/public_profiles/0cc9fe04-15d9-4205-953d-f4ceaba0fb64)
--  Attained 5* in Problem Solving , 3* in Java and 5* in Sql in HackerRank [link](https://www.hackerrank.com/profile/skarn2510).
--  3rd rank in coding contest in Chandigarh University.
+## ACHIEVEMENTS
+- Secured **2nd position** in the **Innovation and Entrepreneurship Proposal Competition** organized by the **Center for Innovation, Entrepreneurship, and Industry Collabration Development** at **National Taipei University**.
+- **Winner of World IOT Hackathon**: - **1st Position**, 1/100 teams in World IoT Hackathon. A 48 hour’s long challenge
+- Chosen among **5000** others for **Career Readiness Program by Google Cloud** [Link](https://www.cloudskillsboost.google/public_profiles/0cc9fe04-15d9-4205-953d-f4ceaba0fb64)
+-  Attained **5* in Problem Solving** , **3* in Java and 5* in Sql** in HackerRank [link](https://www.hackerrank.com/profile/skarn2510).
+-  **3rd rank** in coding contest in **Chandigarh University**.
