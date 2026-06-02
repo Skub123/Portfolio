@@ -54,7 +54,7 @@
 - Implemented JUnit tests, Swagger API docs, and HTTP services and maintained code standards throughout the product development cycle; enhanced user experience by 10% on the Disputes OES gateway.
 - Reduced development costs by 8%; analyzed code using bug-fixing tools- BlackDuck and SonarQube and ensured security measures were in place.
 
-**ADSPLTech | Artificial Intelligence Intern Oct. 2020- Nov. 2020**
+**ADSPLTech | Artificial Intelligence Intern Oct. 2020- Jan. 2021**
 - Achieved 98% accuracy in an AI-based task completion detection project.
 - Created a fully functional program that detects 95% task completion accuracy rates by comparing inputs from the manager to outputs submitted.
 
