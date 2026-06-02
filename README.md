@@ -60,12 +60,12 @@
 
 ## Academic Projects
 
-**Accident Detection System | Python, Numpy, Seaborn, GDrive, Machine Learning Sep. 2023 – Present** [Link](https://github.com/Skub123/Accident-Detection-)
+**Accident Detection System | Python, Numpy, Seaborn, GDrive, Machine Learning ** [Link](https://github.com/Skub123/Accident-Detection-)
 - Model that takes in CCTV footage and detects whether an accident has occurred.
 - Sends immediate alerts via Email or SMS within 1 minute when it detects an accident.
 - The alerts contain the Google Maps link of the location where the accident took place.
 
-**Face Trade Feb. 2021 – Apr. 2021**
+**Face Trade **
 - Designed a model where 68 landmarks are plotted to detect every part of the face, 3D mapping is blended with skin tone to achieve this, and the process takes only a millisecond.
 - Tools: VS Code, Colab, Pygame, dlib, PyOpenGL, OpenCV.
 
